@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssociationTask", "AssociationTask\AssociationTask.csproj", "{91471B27-5BBC-4DD6-B255-26BA40CCC30E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91471B27-5BBC-4DD6-B255-26BA40CCC30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91471B27-5BBC-4DD6-B255-26BA40CCC30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91471B27-5BBC-4DD6-B255-26BA40CCC30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91471B27-5BBC-4DD6-B255-26BA40CCC30E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67E0A3CE-6F61-4AC1-9655-DDE291FF40FD}
+	EndGlobalSection
+EndGlobal
