@@ -1,0 +1,10 @@
+E:\OOP2\DB\database form\database form\bin\Debug\database form.exe.config
+E:\OOP2\DB\database form\database form\bin\Debug\database form.exe
+E:\OOP2\DB\database form\database form\bin\Debug\database form.pdb
+E:\OOP2\DB\database form\database form\obj\Debug\database form.csprojAssemblyReference.cache
+E:\OOP2\DB\database form\database form\obj\Debug\database_form.Form1.resources
+E:\OOP2\DB\database form\database form\obj\Debug\database_form.Properties.Resources.resources
+E:\OOP2\DB\database form\database form\obj\Debug\database form.csproj.GenerateResource.cache
+E:\OOP2\DB\database form\database form\obj\Debug\database form.csproj.CoreCompileInputs.cache
+E:\OOP2\DB\database form\database form\obj\Debug\database form.exe
+E:\OOP2\DB\database form\database form\obj\Debug\database form.pdb
